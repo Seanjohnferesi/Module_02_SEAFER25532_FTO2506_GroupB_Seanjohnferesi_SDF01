@@ -11,7 +11,7 @@
 - 🧠 I have a solid understanding of **HTML, CSS, & JavaScript** and planning to put it into action.
 - 🎓 Currently learning **GitHub** and getting cormfotable with **Version Control**.
 - 🎮 I love video games and games in general, my first ever basic project was a **Rock, Paper, Scissors** game.
-- 🔥 Passionate about tech, learning how things work & building cool stuff like ==Games== etc.
+- 🔥 Passionate about tech, learning how things work & building cool stuff like **Games** etc.
 - 👁️ I love reading **Light Novels & Watching Anime**
 
 ---
@@ -46,13 +46,13 @@ Here is some projects that i've built on my self-taught journey:
 
 ### **1️⃣ Rock, Paper, Scissors**
 
-🔹 **Description:** A simple game where you play **Rock, Paper, Scissors** 
+🔹 **Description:** A simple game where you play **Rock, Paper, Scissors**. 
 🔹 **Technologies:** HTML, CSS & JavaScript
 🔹 **Status:** ✅ Completed
 
 ### **2️⃣ Calculator**
 
-🔹 **Description:** A simple calcultor that does **Basic** calulations  
+🔹 **Description:** A simple calcultor that does **Basic** calulations.
 🔹 **Technologies:** HTML, CSS & JavaScript
 🔹 **Status:** ✅ Completed
 
@@ -66,6 +66,7 @@ Here is some projects that i've built on my self-taught journey:
 🔹 **Description:** A simple portfolio to showcase my projects.  
 🔹 **Technologies:** HTML, CSS
 🔹 **Status:** ⏳ In Progress
+
 ---
 
 ## 📚 Learning Goals
