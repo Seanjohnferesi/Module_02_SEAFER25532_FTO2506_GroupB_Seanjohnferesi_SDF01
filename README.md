@@ -12,7 +12,7 @@
 - 🎓 Currently learning **GitHub** and getting cormfotable with **Version Control**.
 - 🎮 I love video games and games in general, my first ever basic project was a **Rock, Paper, Scissors** game.
 - 🔥 Passionate about tech, learning how things work & building cool stuff like **Games** etc.
-- 👁️ I love reading **Light Novels & Watching Anime**
+- 👁️ I love reading **Light Novels & Watching Anime**, did i mention gaming?
 
 ---
 
@@ -48,13 +48,13 @@ Here is some projects that i've built on my self-taught journey:
 ### **1️⃣ Rock, Paper, Scissors**
 
 🔹 **Description:** A simple game where you play **Rock, Paper, Scissors**. 
-🔹 **Technologies:** HTML, CSS & JavaScript
+🔹 **Technologies:** HTML, CSS & JavaScript. 
 🔹 **Status:** ✅ Completed
 
 ### **2️⃣ Calculator**
 
-🔹 **Description:** A simple calcultor that does **Basic** calulations.
-🔹 **Technologies:** HTML, CSS & JavaScript
+🔹 **Description:** A simple calcultor that does **Basic** calulations. 
+🔹 **Technologies:** HTML, CSS & JavaScript. 
 🔹 **Status:** ✅ Completed
 
 ### **3️⃣ First GitHub Project**
@@ -65,7 +65,7 @@ Here is some projects that i've built on my self-taught journey:
 ### **4️⃣ Personal Portfolio** _(Coming Soon!)_
 
 🔹 **Description:** A simple portfolio to showcase my projects.  
-🔹 **Technologies:** HTML, CSS
+🔹 **Technologies:** HTML, CSS 
 🔹 **Status:** ⏳ In Progress
 
 ---
