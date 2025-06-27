@@ -34,9 +34,10 @@
 ## 🏆 Soft Skills
 
 - 🤝 Team player - because no dev functions alone
-- 📢 Communication Skills
-- 🎯 Problem-Solver - Chatgpt is my friend.
-- 🚀 Adaptability - 
+- 👁️ Observation - developed it playing games
+- 🎯 Problem-Solver - Chatgpt is my friend when it comes to stuff like this but i dont depend on it
+- 🚀 Adaptability - it takes time for me but i always adapt.
+- 👂🏾 Great Listener - I may lack communication skills but i listen.
 
 ---
 
