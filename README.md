@@ -8,11 +8,11 @@
 
 ## 🎯 About Me
 
-- 🧠 I have a solid understanding of ==HTML, CSS, & JavaScript== and planning to put it into action.
-- 🎓 Currently learning ==GitHub== and getting cormfotable with ==Version Control==.
-- 🎮 I love video games and games in general, my first ever basic project was a ==Rock, Paper, Scissors== game.
-- 🔥 Passdionate about tech, learning how things work & buuilding cool stuff like ==Games== etc.
-- 👁️ I love reading ==Light Novels & Watching Anime==
+- 🧠 I have a solid understanding of **HTML, CSS, & JavaScript** and planning to put it into action.
+- 🎓 Currently learning **GitHub** and getting cormfotable with **Version Control**.
+- 🎮 I love video games and games in general, my first ever basic project was a **Rock, Paper, Scissors** game.
+- 🔥 Passionate about tech, learning how things work & building cool stuff like ==Games== etc.
+- 👁️ I love reading **Light Novels & Watching Anime**
 
 ---
 
@@ -26,7 +26,7 @@
 
 **Future Technologies:**
 
-- ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-circle&logo=html5&logoColor=white), ![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-circle&logo=css3), ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-circle&logo=javascript), And possibly ![Python](https://img.shields.io/badge/-Python-black?style=flat-circle&logo=python&logoColor=white)
+- ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-circle&logo=html5&logoColor=white), ![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-circle&logo=css3), ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-circle&logo=javascript), ![Python](https://img.shields.io/badge/-Python-black?style=flat-circle&logo=python&logoColor=white)
 - ![React](https://img.shields.io/badge/-React-black?style=flat-circle&logo=react), ![Angular](https://img.shields.io/badge/-Angular-black?style=flat-circle&logo=angular&logoColor=white)
 
 ---
@@ -46,13 +46,13 @@ Here is some projects that i've built on my self-taught journey:
 
 ### **1️⃣ Rock, Paper, Scissors**
 
-🔹 **Description:** A simple game where you play **Rock, Paper, Scissors** .
-🔹 **Technologies:** HTML, CSS & JavaScript.
+🔹 **Description:** A simple game where you play **Rock, Paper, Scissors** 
+🔹 **Technologies:** HTML, CSS & JavaScript
 🔹 **Status:** ✅ Completed
 
 ### **2️⃣ Calculator**
 
-🔹 **Description:** A simple calcultor that does ==Basic== calulations  
+🔹 **Description:** A simple calcultor that does **Basic** calulations  
 🔹 **Technologies:** HTML, CSS & JavaScript
 🔹 **Status:** ✅ Completed
 
@@ -80,7 +80,8 @@ Here is some projects that i've built on my self-taught journey:
 ## 📫 Connect with Me
 
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/yourusername) : https://github.com/Seanjohnferesi
-📧 Email: [feresifamily@gmail.com](mailto:feresifamily@gmail.com)
+
+📧 Email: [feresifamily@gmail.com](mailto:feresifamily@gmail.com) (Second email since the repo is public)
 
 ---
 
@@ -92,4 +93,4 @@ Here is some projects that i've built on my self-taught journey:
 
 ## 🏆 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Seanjohnferesi&show_icons=true&theme=radical)
