@@ -1,17 +1,18 @@
-# [SDF01] Challenge: My First Repo 🚀
+# My journey into Web Development🌐⛏️
 
-# 👋 Hi, I'm [Your Name]
+# 👋 Hi, I'm Sean John
 
-🌱 Beginner Software Developer | 🚀 Excited to Learn & Build
+🌱 Beginner Software Developer with working knowledge of HTML, CSS & JavaScript | 🚀 Excited to build real world projects since i've already grasped the basics down.
 
 ---
 
 ## 🎯 About Me
 
-- 💡 I'm currently learning **GitHub and version control** before diving into coding.
-- 🎓 Soon, I'll be exploring **HTML, CSS, and JavaScript**!
-- 🤖 I love problem-solving and working on creative projects.
-- 🔥 Looking forward to building my first real-world application.
+- 🧠 I have a solid understanding of ==HTML, CSS, & JavaScript== and planning to put it into action.
+- 🎓 Currently learning ==GitHub== and getting cormfotable with ==Version Control==.
+- 🎮 I love video games and games in general, my first ever basic project was a ==Rock, Paper, Scissors== game.
+- 🔥 Passdionate about tech, learning how things work & buuilding cool stuff like ==Games== etc.
+- 👁️ I love reading ==Light Novels & Watching Anime==
 
 ---
 
@@ -25,56 +26,67 @@
 
 **Future Technologies:**
 
-- ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-circle&logo=html5&logoColor=white), ![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-circle&logo=css3), ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-circle&logo=javascript)
-- ![React](https://img.shields.io/badge/-React-black?style=flat-circle&logo=react)
+- ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-circle&logo=html5&logoColor=white), ![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-circle&logo=css3), ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-circle&logo=javascript), And possibly ![Python](https://img.shields.io/badge/-Python-black?style=flat-circle&logo=python&logoColor=white)
+- ![React](https://img.shields.io/badge/-React-black?style=flat-circle&logo=react), ![Angular](https://img.shields.io/badge/-Angular-black?style=flat-circle&logo=angular&logoColor=white)
 
 ---
 
 ## 🏆 Soft Skills
 
-- 🤝 Teamwork & Collaboration
+- 🤝 Team player - because no dev functions alone
 - 📢 Communication Skills
-- 🎯 Problem-Solving
-- 🚀 Adaptability
+- 🎯 Problem-Solver - Chatgpt is my friend.
+- 🚀 Adaptability - 
 
 ---
 
 ## 📌 Projects
 
-Here are some of my milestone projects (to be updated as I progress!):
+Here is some projects that i've built on my self-taught journey: 
 
-### **1️⃣ First GitHub Project**
+### **1️⃣ Rock, Paper, Scissors**
+
+🔹 **Description:** A simple game where you play **Rock, Paper, Scissors** .
+🔹 **Technologies:** HTML, CSS & JavaScript.
+🔹 **Status:** ✅ Completed
+
+### **2️⃣ Calculator**
+
+🔹 **Description:** A simple calcultor that does ==Basic== calulations  
+🔹 **Technologies:** HTML, CSS & JavaScript
+🔹 **Status:** ✅ Completed
+
+### **3️⃣ First GitHub Project**
 
 🔹 **Description:** My first project using GitHub to manage files.  
 🔹 **Status:** ✅ Completed
 
-### **2️⃣ Personal Portfolio** _(Coming Soon!)_
+### **4️⃣ Personal Portfolio** _(Coming Soon!)_
 
 🔹 **Description:** A simple portfolio to showcase my projects.  
 🔹 **Technologies:** HTML, CSS
 🔹 **Status:** ⏳ In Progress
-
 ---
 
 ## 📚 Learning Goals
 
-- 🚀 Get comfortable using Git and GitHub
-- 🎨 Learn HTML, CSS, and JavaScript
-- 💡 Build real-world projects and collaborate with others
+- ✅ Get confident with Git, GitHub, and version control
+- 🧠 Expand my knowledge and understanding of HTML, CSS, JavaScript and build responsive websites.
+- ⚛️ Learn React and Angular for dynamic frontends
+- 🚀 Complete real-world projects and grow a strong dev portfolio.
 
 ---
 
 ## 📫 Connect with Me
 
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/yourusername)  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)  
-📧 Email: [youremail@example.com](mailto:youremail@example.com)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/yourusername) : https://github.com/Seanjohnferesi
+📧 Email: [feresifamily@gmail.com](mailto:feresifamily@gmail.com)
 
 ---
 
 ## 🚀 Fun Fact
 
-💡 I love learning new things and can't wait to build my first website!
+💡 I Love things that normal people do not like this musical called [Epic-The-Musical](https://www.youtube.com/watch?v=hjotpDjR5YM&list=LL&index=9&t=7037s), check it out if you want😊.
 
 ---
 
