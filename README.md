@@ -43,30 +43,26 @@
 
 ## 📌 Projects
 
-Here is some projects that i've built on my self-taught journey: 
+Here are some of the projects that I've built over the course of journey : 
 
 ### **1️⃣ Rock, Paper, Scissors**
+🔹 **Description:** A simple game where you place **Rock, Paper, Scissors** with a computer.  
+🔹 **Techologies:** HTML, CSS, JavaScript.  
+🔹 **Status:** ✅ Completed.
 
-🔹 **Description:** A simple game where you play **Rock, Paper, Scissors**. 
-🔹 **Technologies:** HTML, CSS & JavaScript. 
-🔹 **Status:** ✅ Completed
+### **2️⃣ Calculator**  
+🔹 **Description:** A simple calculator that does **Basic** calculations.  
+🔹 **Technologies:** HTML, CSS, JavaScript.  
+🔹 **Status:** ✅ Completed.  
 
-### **2️⃣ Calculator**
-
-🔹 **Description:** A simple calcultor that does **Basic** calulations. 
-🔹 **Technologies:** HTML, CSS & JavaScript. 
-🔹 **Status:** ✅ Completed
-
-### **3️⃣ First GitHub Project**
-
+### **3️⃣ First GitHub Project**  
 🔹 **Description:** My first project using GitHub to manage files.  
-🔹 **Status:** ✅ Completed
+🔹 **Status:** ✅ Completed.  
 
-### **4️⃣ Personal Portfolio** _(Coming Soon!)_
-
+### **4️⃣ Personal Portfolio** _(Coming Soon!)_  
 🔹 **Description:** A simple portfolio to showcase my projects.  
-🔹 **Technologies:** HTML, CSS 
-🔹 **Status:** ⏳ In Progress
+🔹 **Technologies:** HTML, CSS.  
+🔹 **Status:** ⏳ In Progress.  
 
 ---
 
@@ -81,15 +77,15 @@ Here is some projects that i've built on my self-taught journey:
 
 ## 📫 Connect with Me
 
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/yourusername) : https://github.com/Seanjohnferesi
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/yourusername) : [Sean John feresi](https://github.com/Seanjohnferesi)
 
-📧 Email: [feresifamily@gmail.com](mailto:feresifamily@gmail.com) (Second email since the repo is public)
+📧 Email: [Hit me up](mailto:feresifamily@gmail.com) (Second email since the repo is public)
 
 ---
 
 ## 🚀 Fun Fact
 
-💡 I Love things that normal people do not like this musical called [Epic-The-Musical](https://www.youtube.com/watch?v=hjotpDjR5YM&list=LL&index=9&t=7037s), check it out if you want😊.
+💡 I Love things that normal people do not like this musical called [Epic The Musical](https://www.youtube.com/watch?v=hjotpDjR5YM&list=LL&index=9&t=7037s), check it out if you want😊.
 
 ---
 
