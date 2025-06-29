@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Sean John
 
-🌱 Beginner Software Developer with working knowledge of HTML, CSS & JavaScript | 🚀 Excited to build real world projects since i've already grasped the basics down.
+🌱 Beginner Software Developer with working knowledge in HTML, CSS & JavaScript | 🚀 Excited to build real world projects since i've already grasped the basics down.
 
 ---
 
@@ -43,7 +43,7 @@
 
 ## 📌 Projects
 
-Here are some of the projects that I've built over the course of journey : 
+Here are some of the projects that I've built over the course of my journey : 
 
 ### **1️⃣ Rock, Paper, Scissors**
 🔹 **Description:** A simple game where you place **Rock, Paper, Scissors** with a computer.  
@@ -71,7 +71,8 @@ Here are some of the projects that I've built over the course of journey :
 - ✅ Get confident with Git, GitHub, and version control
 - 🧠 Expand my knowledge and understanding of HTML, CSS, JavaScript and build responsive websites.
 - ⚛️ Learn React and Angular for dynamic frontends
-- 🚀 Complete real-world projects and grow a strong dev portfolio.
+- 🚀 Complete real-world projects and grow a strong dev portfolio.  
+- 🗣️ Improve my communication skills and better work with my team.
 
 ---
 
